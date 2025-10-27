@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Microservice Arch Frontend",
+  "description": "A React frontend application designed to interact with a backend built on a microservice architecture. This demo showcases a task management system with separate, mock services for authentication, user profiles, tasks, and analytics.",
+  "requestFramePermissions": []
+}
